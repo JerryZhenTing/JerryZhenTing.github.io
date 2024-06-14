@@ -47,7 +47,7 @@ Multi-Framework System</b>
   
   <div class="archive__proj__left">
      <div>
-        <img src="https://JerryZhenTing.github.io/images/RI_5.png", align="right"> 
+        <img src="https://JerryZhenTing.github.io/images/RI_5.png"> 
     </div>
   </div>
 </div>
