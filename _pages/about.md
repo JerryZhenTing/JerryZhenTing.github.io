@@ -17,13 +17,7 @@ I'm ZhenTing Liu or Jerry, currently a sophomore at Carnegie Mellon University. 
 
 
 <div>
-<p style="font-size:20px;"><b>SURF</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>May 2024 - Now</em></p>
-  </div>
-  <div class="archive__proj__left">
-     <div>
-        <img src="https://JerryZhenTing.github.io/images/RI_5.png", align="right"> 
-    </div>
-  </div>
+<p style="font-size:20px;"><b>Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>May 2024 - Now</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -32,7 +26,12 @@ I'm ZhenTing Liu or Jerry, currently a sophomore at Carnegie Mellon University. 
 Multi-Framework System</b>
     <br>Using decentralized and distributed framework for multi-UAV control. Allowing drone swarms to operate without needing extensive computational power.
     </p>
-
+  </div>
+  <div class="archive__proj__left">
+     <div>
+        <img src="https://JerryZhenTing.github.io/images/RI_5.png", align="left"> 
+    </div>
+  </div>
 </div>
 </div>
 
