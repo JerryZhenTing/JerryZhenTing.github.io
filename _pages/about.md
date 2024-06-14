@@ -42,16 +42,15 @@ Multi-Framework System</b>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
-    <p>
-    <b>Multi-Robot collaboration and optimization</b>
-    <br>
-    </p>
   </div>
-  <div class="archive__proj__left">
      <div>
-        <img src="https://JerryZhenTing.github.io/images/airlab.jpg", align = "right", width = "100"> 
+        <img src="https://JerryZhenTing.github.io/images/airlab.jpg", align="Right", width = "100"> 
     </div>
   </div>
+    <p>
+    <b>Multi-agent collaboration and optimization</b>
+    <br>
+    </p>
 </div>
 </div>
 
