@@ -17,19 +17,39 @@ I'm ZhenTing Liu or Jerry, currently a sophomore at Carnegie Mellon University. 
 
 
 <div>
-<p style="font-size:20px;"><b>Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>May 2024 - Now</em></p>
+<p style="font-size:20px;"><b>SURF</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>May 2024 - Now</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
+  </div>
+     <div>
+        <img src="https://JerryZhenTing.github.io/images/RI_5.png", align="Right", width = "100"> 
+    </div>
+  </div>
     <p>
     <b>SLAM for UAV Swarm and State Control using
 Multi-Framework System</b>
     <br>Using decentralized and distributed framework for multi-UAV control. Allowing drone swarms to operate without needing extensive computational power.
     </p>
+
+</div>
+</div>
+
+<br clear="right"/>
+<br clear="right"/>
+<div>
+<p style="font-size:20px;"><b>Air Lab</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Sep 2024 - Now</em></p>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>Multi-Robot collaboration and optimization</b>
+    <br>
+    </p>
   </div>
   <div class="archive__proj__left">
      <div>
-        <img src="https://JerryZhenTing.github.io/images/RI_5.png"> 
+        <img src="https://JerryZhenTing.github.io/images/airlab.jpg", align = "right", width = "100"> 
     </div>
   </div>
 </div>
