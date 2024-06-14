@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm ZhenTing Liu or Jerry, currently a sophomore at Carnegie Mellon University. I am interested in *optimization theory*, *robotics* (mostly UAVs), *algebra*, *logic*, and *deep learning* . My current research focus includes *multi-agent collaboration* and *optimization*. 
+I'm ZhenTing Liu or Jerry, currently a sophomore at Carnegie Mellon University. I am interested in *optimization theory*, *robotics* (mostly UAVs), *algebra*, and *deep learning* . My current research focus includes *multi-agent collaboration* and *optimization*. 
 
 I also post logic (and some other) puzzles [here](https://jerryzhenting.github.io/year-archive/), check them out!
 
@@ -37,7 +37,7 @@ I also post logic (and some other) puzzles [here](https://jerryzhenting.github.i
   <div class="archive__proj__right">
     <p><img src="https://JerryZhenTing.github.io/images/RI_5.png" align="right" width="100px"/>
     <b>SLAM for UAV Swarm and State Control using
-Multi-Framework System</b>
+Multi-Framework SystemResearch Intern (under the supervision of Professor Alex Rogers)</b>
     <br>Using decentralized and distributed framework for multi-UAV control. Allowing drone swarms to operate without needing extensive computational power.
     </p>
   </div>
@@ -45,6 +45,59 @@ Multi-Framework System</b>
 </div>
 </div>
 
+
+<br clear="right"/>
+<br clear="right"/>
+<br clear="right"/>
+<div>
+<p style="font-size:20px;"><b>ORI</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Dec 2020 - May 2021</em>   </p>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p><img src="https://JerryZhenTing.github.io/images/oxford.png" align="right" width="100px"/>
+    <b>Learning to Learn Semantic Factors in Heterogeneous Image Classification</b>
+    <br>Proposed Meta-ProtoNet to handle
+the challenge of heterogeneous task distributions in
+few-shot scenarios. Conducted experiments
+on 5-way 1-shot and 5-way 5-shot settings with 15 query samples per class in each. Result demonstrates that Meta-ProtoNet outperforms the
+original Prototypical Network in all conventional
+FSL scenarios.
+    </p>
+  </div>
+  
+</div>
+</div>
+
+
+<br clear="right"/>
+<br clear="right"/>
+<br clear="right"/>
+<div>
+<p style="font-size:20px;"><b>University of Oxford</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Dec 2020 - Feb 2021</em>   </p>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p><img src="https://JerryZhenTing.github.io/images/oxford.png" align="right" width="100px"/>
+    <b>Research Intern (under the supervision of Professor Alex Rogers)</b>
+    <br>Build ML models to minimize household energy expenditure in the UK through proposing different usage strategies. Implemented algorithms for Joulo, a home energy advice system using a low-cost temperature sensor, on cloud.
+    </p>
+  </div>
+  
+</div>
+</div>
+
+<br clear="right"/>
+<br clear="right"/>
+<br clear="right"/>
+<div>
+<p style="font-size:20px;"><b>Independent Work</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>May 2020 - Sep 2020</em>   </p>
+    <b>GNNs for graph-based semi-supervised learning(SSL)</b>
+    <br> Explored GNNs for soft SSL in which vertex labels are probability distributions. Motivated by real-world applications, we proposed DHN (Directed Hypergraph Network), a novel method for directed hypergraphs. DHN can effectively propagate histograms by integrating directed hyper-edges and undirected hyper-graphic structure into unknown vertices of the vertex features.
+    </p>
+  </div>
+  
+</div>
+</div>
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 <!-- A data-driven personal website
