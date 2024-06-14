@@ -15,6 +15,23 @@ I'm ZhenTing Liu or Jerry, currently a sophomore at Carnegie Mellon University. 
 <div id="work_experience">
 <h1>Experience</h1>
 
+<div>
+<p style="font-size:20px;"><b>Applied Scientist II Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2023 - Sep 2023</em></p>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>MusicLLM: Music Understanding with LLMs</b>
+    <br>Built an LLM-enabled music understanding framework to solve music tasks, like captioning, retrieval, tagging, and classification in a text-to-text fashion. The model takes music file and task prompts as inputs and generate text responses. Used audio features from Encodec and an instruction-tuned FLAN-T5 LLM. [<a href="https://drive.google.com/file/d/16NjpxmD0jBrt5pMuOHI_o3mjkrVfYeRE/view?usp=sharing" target="_blank">Slide</a>]
+    </p>
+  </div>
+  <div class="archive__proj__left">
+     <div>
+        <img src="https://ranakroychowdhury.github.io/images/aws.jpg"> 
+    </div>
+  </div>
+</div>
+</div>
 
 <div>
 <p style="font-size:20px;"><b>Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>May 2024 - Now</em></p>
@@ -27,9 +44,10 @@ Multi-Framework System</b>
     <br>Using decentralized and distributed framework for multi-UAV control. Allowing drone swarms to operate without needing extensive computational power.
     </p>
   </div>
+  
   <div class="archive__proj__left">
      <div>
-        <img src="https://JerryZhenTing.github.io/images/RI_5.png", align="left"> 
+        <img src="https://JerryZhenTing.github.io/images/RI_5.png", align="right"> 
     </div>
   </div>
 </div>
