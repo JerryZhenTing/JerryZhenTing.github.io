@@ -46,7 +46,7 @@ Feel free to reach out to me at zhentinl[at]andrew[dot]cmu[dot]edu
   <div class="archive__proj__right">
     <p><img src="https://JerryZhenTing.github.io/images/RI_5.png" align="right" width="100px"/>
     <b>SLAM for UAV Swarm and State Control using
-Multi-Framework SystemResearch Intern (under the supervision of Professor Alex Rogers)</b>
+Multi-Framework SystemResearch Intern </b>
     <br>Using decentralized and distributed framework for multi-UAV control. Allowing drone swarms to operate without needing extensive computational power.
     </p>
   </div>
