@@ -11,16 +11,14 @@ redirect_from:
 I'm ZhenTing Liu or Jerry, currently a sophomore at Carnegie Mellon University. I am interested in *optimization theory*, *robotics* (mostly UAVs) and *deep learning* and my current research focus is on *multi-agent collaboration* and *state control*. 
 
 
----
+
 Experience
 =====
 
-<div style="font-family: Arial, sans-serif; line-height: 1.6; background-color: #f4f4f4; margin: 0; padding: 20px;">
-
-<div style="background-color: #fff; padding: 20px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-    ![AirLab Logo](/images/RI.png){:style="max-width: 50px; vertical-align: middle;"}
+<div class="experience" style="background-color: #fff; padding: 20px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+    ![AirLab Logo](/images/RI.png){: style="max-width: 50px; vertical-align: middle;"}
     ### Differentiable Visual-Inertial SLAM
-    <div style="color: #888; margin-bottom: 10px;">Sep 2022 - Now</div>
+    <div class="date" style="color: #888; margin-bottom: 10px;">Sep 2022 - Now</div>
     <div>AirLab, Robotics Institute</div>
     <p>Building a differentiable visual Simultaneous Localization and Mapping (SLAM) system using PyPose. Combining deep learning and self-supervised learning techniques into traditional SLAM system, allowing for self-adaptive performance and improving the robustness of traditional algorithm under challenging environment.</p>
 </div>
