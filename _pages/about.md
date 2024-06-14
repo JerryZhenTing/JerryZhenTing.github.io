@@ -54,7 +54,7 @@ Multi-Framework SystemResearch Intern (under the supervision of Professor Alex R
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
-    <p><img src="https://JerryZhenTing.github.io/images/oxford.png" align="right" width="100px"/>
+    <p><img src="https://JerryZhenTing.github.io/images/oxfordrobotics.png" align="right" width="100px"/>
     <b>Learning to Learn Semantic Factors in Heterogeneous Image Classification</b>
     <br>Proposed Meta-ProtoNet to handle
 the challenge of heterogeneous task distributions in
@@ -77,7 +77,7 @@ FSL scenarios.
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
-    <p><img src="https://JerryZhenTing.github.io/images/oxford.png" align="right" width="100px"/>
+    <p><img src="https://JerryZhenTing.github.io/images/oxford.png" align="right" width="110px"/>
     <b>Research Intern (under the supervision of Professor Alex Rogers)</b>
     <br>Build ML models to minimize household energy expenditure in the UK through proposing different usage strategies. Implemented algorithms for Joulo, a home energy advice system using a low-cost temperature sensor, on cloud.
     </p>
