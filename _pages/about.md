@@ -12,8 +12,9 @@ I'm ZhenTing Liu or Jerry, currently a sophomore at Carnegie Mellon University. 
 
 
 
-Experience
-=====
+<div id="work_experience">
+<h1>Experience</h1>
+
 
 <div>
 <p style="font-size:20px;"><b>Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>May 2024 - Now</em></p>
@@ -28,7 +29,7 @@ Multi-Framework System</b>
   </div>
   <div class="archive__proj__left">
      <div>
-        <img src="https://JerryZhenTing.github.io/images/RI_40.png"> 
+        <img src="https://JerryZhenTing.github.io/images/RI_5.png"> 
     </div>
   </div>
 </div>
