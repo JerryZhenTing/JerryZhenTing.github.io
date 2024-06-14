@@ -15,65 +15,25 @@ I'm ZhenTing Liu or Jerry, currently a sophomore at Carnegie Mellon University. 
 Experience
 =====
 
+<div>
+<p style="font-size:20px;"><b>Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>May 2024 - Now</em></p>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Experience Section</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-        }
-        .experience {
-            background-color: #fff;
-            padding: 20px;
-            margin-bottom: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        .experience h3 {
-            margin-top: 0;
-        }
-        .experience img {
-            max-width: 50px;
-            vertical-align: middle;
-            margin-right: 10px;
-        }
-        .experience .date {
-            color: #888;
-            margin-bottom: 10px;
-        }
-        .experience p {
-            margin: 10px 0;
-        }
-        .experience a {
-            color: #007bff;
-            text-decoration: none;
-        }
-        .experience a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-
-<div class="experience">
-    <img src= (/images/RI.png) alt="AirLab Logo">
-    <h3>Differentiable Visual-Inertial SLAM</h3>
-    <div class="date">Sep 2022 - Now</div>
-    <div>AirLab, Robotics Institute</div>
-    <p>Building a differentiable visual Simultaneous Localization and Mapping (SLAM) system using PyPose. Combining deep learning and self-supervised learning techniques into traditional SLAM system, allowing for self-adaptive performance and improving the robustness of traditional algorithm under challenging environment.</p>
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>SLAM for UAV Swarm and State Control using
+Multi-Framework System</b>
+    <br>Using decentralized and distributed framework for multi-UAV control. Allowing drone swarms to operate without needing extensive computational power.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+     <div>
+        <img src="https://JerryZhenTing.github.io/images/RI.jpg"> 
+    </div>
+  </div>
+</div>
 </div>
 
-
-</body>
-</html>
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 <!-- A data-driven personal website
