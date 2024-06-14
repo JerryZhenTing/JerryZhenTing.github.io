@@ -18,14 +18,15 @@ I'm ZhenTing Liu or Jerry, currently a sophomore at Carnegie Mellon University. 
 
 <div>
 <p style="font-size:20px;"><b>SURF</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>May 2024 - Now</em></p>
+  </div>
+  <div class="archive__proj__left">
+     <div>
+        <img src="https://JerryZhenTing.github.io/images/RI_5.png", align="right"> 
+    </div>
+  </div>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
-  </div>
-     <div>
-        <img src="https://JerryZhenTing.github.io/images/RI_5.png", align="Right", width = "100"> 
-    </div>
-  </div>
     <p>
     <b>SLAM for UAV Swarm and State Control using
 Multi-Framework System</b>
