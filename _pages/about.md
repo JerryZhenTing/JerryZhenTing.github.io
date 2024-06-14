@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm ZhenTing Liu or Jerry, currently a sophomore at Carnegie Mellon University. I am interested in *optimization theory*, *robotics* (mostly UAVs), *algebra*, and *deep learning* . My current research focus includes *multi-agent collaboration* and *optimization*. 
+I'm ZhenTing Liu or Jerry, currently a sophomore at Carnegie Mellon University. I am interested in *optimization theory*, *robotics* (mostly UAVs), *algebra*, *geometry* and *deep learning* . My current research focus includes *multi-agent collaboration* and *optimization*. 
 
 I also post logic (and some other) puzzles [here](https://jerryzhenting.github.io/year-archive/), check them out!
 
