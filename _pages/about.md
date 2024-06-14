@@ -8,13 +8,22 @@ redirect_from:
 ---
 
 
-I'm ZhenTing Liu or Jerry, currently a sophomore at Carnegie Mellon University. I am interested in *optimization theory*, *robotics* (mostly UAVs), *algebra*, *geometry* and *deep learning* . My current research focus includes *differentiable manifolds*, *multi-agent collaboration* and *optimization*. 
+I'm ZhenTing Liu (刘镇霆) or Jerry, currently a sophomore at Carnegie Mellon University. I am interested in *optimization theory*, *robotics* (mostly UAVs), *algebra*, *geometry* and *deep learning* . My current research focus includes *differentiable manifolds*, *multi-agent collaboration* and *optimization*. My ultimate goal is to obtain a PhD in above area. In the meantime I also run a few non-profits ([Voice](https://www.action-voice.com/) link invalid temporarily as I am migrating the domain; [Airsave](http://airsave.life/)). 
+
+I did semi-professional bouldering in high school and ref for regionals when I have time. Here are some of my [past comptitions](https://competitions.touchstoneclimbing.com/series/15/events/97/completed). I love traveling when I have time, I took a year off to backpack across south and south east Asia while doing non-profit work. I have a [blog post](https://jerryzhenting.github.io/posts/2012/08/blog-post-1/) about this. 
+
+
+In my free time I like playing the piano. I have a Motor Glider license and am working toward getting a FAA Sport Pilot license.
 
 I also post logic (and some other) puzzles [here](https://jerryzhenting.github.io/year-archive/), check them out!
 
+Feel free to reach out to me at zhentinl[at]andrew[dot]cmu[dot]edu
+
+
+
 
 <div id="work_experience">
-<h1>Experience</h1>
+<h1>Research Experience</h1>
 
 <div>
 <p style="font-size:20px;"><b>AirLab</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Sep 2024 - Now</em></p>
@@ -98,6 +107,15 @@ FSL scenarios.
   
 </div>
 </div>
+
+
+
+<div id="work_experience">
+<h1>Work Experience</h1>
+<ul>
+  <li>ML engineer intern @Tesla in 2020</li>
+  <li>Frontend @Matterverse in 2021</li>
+</ul>
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 <!-- A data-driven personal website
