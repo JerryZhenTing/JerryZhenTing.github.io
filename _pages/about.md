@@ -86,7 +86,7 @@ FSL scenarios.
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
-    <p><img src="https://JerryZhenTing.github.io/images/oxford.png" align="right" width="110px"/>
+    <p><img src="https://JerryZhenTing.github.io/images/ofu.jpg" align="right" width="110px"/>
     <b>Research Intern (under the supervision of Professor Alex Rogers)</b>
     <br>Build ML models to minimize household energy expenditure in the UK through proposing different usage strategies. Implemented algorithms for Joulo, a home energy advice system using a low-cost temperature sensor, on cloud.
     </p>
