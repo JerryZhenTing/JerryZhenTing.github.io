@@ -46,8 +46,8 @@ Feel free to reach out to me at zhentinl[at]andrew[dot]cmu[dot]edu
   <div class="archive__proj__right">
     <p><img src="https://JerryZhenTing.github.io/images/RI_5.png" align="right" width="100px"/>
     <b>SLAM for UAV Swarm and State Control using
-Multi-Framework SystemResearch Intern </b>
-    <br>Using decentralized and distributed framework for multi-UAV control. Allowing drone swarms to operate without needing extensive computational power.
+Multi-Framework System </b>
+    <br>Using decentralized and distributed framework for multi-UAV control and pose-graph optimization. 
     </p>
   </div>
   
@@ -102,7 +102,7 @@ FSL scenarios.
 <p style="font-size:20px;"><b>Independent Work</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>May 2020 - Sep 2020</em>   </p>
     <b>GNNs for graph-based semi-supervised learning(SSL)</b>
     <br> Explored GNNs for soft SSL in which vertex labels are probability distributions. Motivated by real-world applications, we proposed DHN (Directed Hypergraph Network), a novel method for directed hypergraphs. DHN can effectively propagate histograms by integrating directed hyper-edges and undirected hyper-graphic structure into unknown vertices of the vertex features.
-    </p>
+    
   </div>
   
 </div>
