@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://JerryZhenTing.github.io/files/Resume.pdf)
+<!-- [Download CV here](https://JerryZhenTing.github.io/files/Resume.pdf) -->
 
 
 
