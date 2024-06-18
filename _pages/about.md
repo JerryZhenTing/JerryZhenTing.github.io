@@ -10,7 +10,9 @@ redirect_from:
 
 I'm ZhenTing Liu (刘镇霆) or Jerry, currently a sophomore at Carnegie Mellon University. I am interested in *optimization theory*, *robotics* (mostly UAVs), *algebra*, *geometry* and *deep learning* . My current research focus includes *differentiable manifolds*, *multi-agent collaboration* and *optimization*. My ultimate goal is to obtain a PhD in above area. In the meantime I also run a few non-profits ([Voice](https://www.action-voice.com/) link invalid temporarily as I am migrating the domain; [Airsave](http://airsave.life/)). 
 
-I did semi-professional bouldering in high school and ref for regionals when I have time. Here are some of my [past comptitions](https://competitions.touchstoneclimbing.com/series/15/events/97/completed). I love traveling when I have time, I took a year off to backpack across south and south east Asia while doing non-profit work. I have a [blog post](https://jerryzhenting.github.io/posts/2012/08/blog-post-1/) about this. 
+I hold a few patents on [microbial-fuel cells](https://en.wikipedia.org/wiki/Microbial_fuel_cell) and worked closely with the Sri Lankan government and researchers on local water treatment projects, which I included in the [blog post](https://jerryzhenting.github.io/posts/2024/06/blog-post-3/) 
+
+I did semi-professional bouldering in high school and ref for regionals when I have time. Here are some of my [past comptitions](https://competitions.touchstoneclimbing.com/series/15/events/97/completed). I love traveling when I have time, I took a year off to backpack across south and south east Asia while doing non-profit work. I have a [blog post](https://jerryzhenting.github.io/posts/2014/06/blog-post-3/) about this. 
 
 
 In my free time I like playing the piano, golfing and snowboarding. I have a Motor Glider license and am working toward getting a FAA Sport Pilot license. I played a lot of video games in high school (still do when I'm free), especially this pretty [niched RTS game](https://planetaryannihilation.com/) where I was ranked top 3 worldwide for a few years. I love Gomoku too although I'm not very good at it.
