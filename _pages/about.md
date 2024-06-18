@@ -10,7 +10,7 @@ redirect_from:
 
 I'm ZhenTing Liu (刘镇霆) or Jerry, currently a sophomore at Carnegie Mellon University. I am interested in *optimization theory*, *robotics* (mostly UAVs), *algebra*, *geometry* and *deep learning* . My current research focus includes *differentiable manifolds*, *multi-agent collaboration* and *optimization*. My ultimate goal is to obtain a PhD in above area. In the meantime I also run a few non-profits ([Voice](https://www.action-voice.com/) link invalid temporarily as I am migrating the domain; [Airsave](http://airsave.life/)). 
 
-I hold a few patents on [microbial-fuel cells](https://en.wikipedia.org/wiki/Microbial_fuel_cell) and worked closely with the Sri Lankan government and researchers on local water treatment projects, which I included in the [blog post](https://jerryzhenting.github.io/posts/2024/06/blog-post-3/) 
+I worked closely with the Sri Lankan government and researchers on local water treatment projects using [microbial fuel-cells](https://en.wikipedia.org/wiki/Microbial_fuel_cell), which I included in the [blog post](https://jerryzhenting.github.io/posts/2024/06/blog-post-3/) 
 
 I did semi-professional bouldering in high school and ref for regionals when I have time. Here are some of my [past comptitions](https://competitions.touchstoneclimbing.com/series/15/events/97/completed). I love traveling when I have time, I took a year off to backpack across south and south east Asia while doing non-profit work. I have a [blog post](https://jerryzhenting.github.io/posts/2014/06/blog-post-3/) about this. 
 
