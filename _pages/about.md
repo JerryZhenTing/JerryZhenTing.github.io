@@ -10,7 +10,9 @@ redirect_from:
 
 I'm ZhenTing Liu (刘镇霆) or Jerry, currently a sophomore at Carnegie Mellon University. I am interested in *optimization theory*, *robotics* (mostly UAVs), *algebra*, *geometry* and *deep learning* . My current research focus includes *differentiable manifolds*, *multi-agent collaboration* and *optimization*. My ultimate goal is to obtain a PhD in above area. In the meantime I also run a few non-profits ([Voice](https://www.action-voice.com/) link invalid temporarily as I am migrating the domain; [Airsave](http://airsave.life/)). 
 
-I did semi-professional bouldering in high school and ref for regionals when I have time. Here are some of my [past comptitions](https://competitions.touchstoneclimbing.com/series/15/events/97/completed). I love traveling when I have time, I took a year off to backpack across south and south east Asia while doing non-profit work. I have a [blog post](https://jerryzhenting.github.io/posts/2012/08/blog-post-1/) about this. 
+I worked closely with the Sri Lankan government and researchers on local water treatment projects using [microbial fuel-cells](https://en.wikipedia.org/wiki/Microbial_fuel_cell), which I included in the [blog post](https://jerryzhenting.github.io/posts/2024/06/blog-post-3/) 
+
+I did semi-professional bouldering in high school and ref for regionals when I have time. Here are some of my [past comptitions](https://competitions.touchstoneclimbing.com/series/15/events/97/completed). I love traveling when I have time, I took a year off to backpack across south and south east Asia while doing non-profit work. I have a [blog post](https://jerryzhenting.github.io/posts/2014/06/blog-post-3/) about this. 
 
 
 In my free time I like playing the piano, golfing and snowboarding. I have a Motor Glider license and am working toward getting a FAA Sport Pilot license. I played a lot of video games in high school (still do when I'm free), especially this pretty [niched RTS game](https://planetaryannihilation.com/) where I was ranked top 3 worldwide for a few years. I love Gomoku too although I'm not very good at it.
@@ -46,8 +48,8 @@ Feel free to reach out to me at zhentinl[at]andrew[dot]cmu[dot]edu
   <div class="archive__proj__right">
     <p><img src="https://JerryZhenTing.github.io/images/RI_5.png" align="right" width="100px"/>
     <b>SLAM for UAV Swarm and State Control using
-Multi-Framework SystemResearch Intern (under the supervision of Professor Alex Rogers)</b>
-    <br>Using decentralized and distributed framework for multi-UAV control. Allowing drone swarms to operate without needing extensive computational power.
+Multi-Framework System </b>
+    <br>Using decentralized and distributed framework for multi-UAV control and pose-graph optimization. 
     </p>
   </div>
   
@@ -86,7 +88,7 @@ FSL scenarios.
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
-    <p><img src="https://JerryZhenTing.github.io/images/oxford.png" align="right" width="110px"/>
+    <p><img src="https://JerryZhenTing.github.io/images/ofu.jpg" align="right" width="110px"/>
     <b>Research Intern (under the supervision of Professor Alex Rogers)</b>
     <br>Build ML models to minimize household energy expenditure in the UK through proposing different usage strategies. Implemented algorithms for Joulo, a home energy advice system using a low-cost temperature sensor, on cloud.
     </p>
@@ -102,7 +104,7 @@ FSL scenarios.
 <p style="font-size:20px;"><b>Independent Work</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>May 2020 - Sep 2020</em>   </p>
     <b>GNNs for graph-based semi-supervised learning(SSL)</b>
     <br> Explored GNNs for soft SSL in which vertex labels are probability distributions. Motivated by real-world applications, we proposed DHN (Directed Hypergraph Network), a novel method for directed hypergraphs. DHN can effectively propagate histograms by integrating directed hyper-edges and undirected hyper-graphic structure into unknown vertices of the vertex features.
-    </p>
+    
   </div>
   
 </div>
