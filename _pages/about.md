@@ -12,7 +12,7 @@ I'm ZhenTing Liu (刘镇霆) or Jerry, currently a sophomore at Carnegie Mellon 
 
 I worked closely with the Sri Lankan government and researchers on local water treatment projects using [microbial fuel-cells](https://en.wikipedia.org/wiki/Microbial_fuel_cell), which I included in the [blog post](https://jerryzhenting.github.io/posts/2024/06/blog-post-3/) 
 
-I did semi-professional bouldering in high school and ref for regionals when I have time. Here are some of my [past competitions](https://competitions.touchstoneclimbing.com/series/15/events/97/completed). I love traveling, I took a year off to backpack across south America and Asia while doing non-profit work. I have a [blog post](https://jerryzhenting.github.io/posts/2014/06/blog-post-3/) about this. 
+I did semi-professional bouldering in high school and ref for regionals when I have time. Here are some of my [past competitions](https://competitions.touchstoneclimbing.com/series/15/events/97/completed). I love traveling, I took a year off to backpack across south and south east Asia while doing non-profit work. I have a [blog post](https://jerryzhenting.github.io/posts/2014/06/blog-post-3/) about this. 
 
 
 I enjoy playing the piano, photography, golfing and snowboarding. I have a Motor Glider license and am working toward getting a FAA Sport Pilot license. I played a lot of video games in high school, especially this pretty [niched RTS game](https://planetaryannihilation.com/) where I was ranked top 3 worldwide for a few years. I love Gomoku too although I'm not very good at it.
