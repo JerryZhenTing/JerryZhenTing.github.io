@@ -27,6 +27,7 @@ Feel free to reach out to me at zhentinl[at]andrew[dot]cmu[dot]edu
 <div id="work_experience">
 <h1>Research Experience</h1>
 
+
 <div>
 <p style="font-size:20px;"><b>MIT</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>May 2025 - August 2025</em></p>
 
@@ -38,23 +39,8 @@ Feel free to reach out to me at zhentinl[at]andrew[dot]cmu[dot]edu
     </p><img src="https://JerryZhenTing.github.io/images/mit.jpg" align="right" width="100px"/>
 </div>
 </div>
-<br clear="right"/>
-<br clear="right"/>
-<br clear="right"/>
-<div>
-<p style="font-size:20px;"><b>SURF</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>May 2024 - Now</em>   </p>
 
-<div class="archive__proj__row">
-  <div class="archive__proj__right">
-    <p><img src="https://JerryZhenTing.github.io/images/RI_5.png" align="right" width="100px"/>
-    <b>SLAM for UAV Swarm and State Control using
-Multi-Framework System </b>
-    <br>Using decentralized and distributed framework for multi-UAV control and pose-graph optimization. 
-    </p>
-  </div>
-  
-</div>
-</div>
+
 
 
 <div>
