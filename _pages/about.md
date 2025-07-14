@@ -34,17 +34,17 @@ Feel free to reach out to me at zhentinl[at]andrew[dot]cmu[dot]edu
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b>multi-agent systems</b>
+    <b>Large scale coordinations</b>
     <br>
     </p><img src="https://JerryZhenTing.github.io/images/mit.jpg" align="right" width="100px"/>
 </div>
 </div>
-
-
-
+<br clear="right"/>
+<br clear="right"/>
+<br clear="right"/>
 
 <div>
-<p style="font-size:20px;"><b>AirLab</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Sep 2024 - Now</em></p>
+<p style="font-size:20px;"><b>AirLab</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Sep 2024 - May 2025</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
