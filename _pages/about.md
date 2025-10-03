@@ -29,6 +29,21 @@ Feel free to reach out to me at zhentinl[at]andrew[dot]cmu[dot]edu
 
 
 <div>
+<p style="font-size:20px;"><b>ARCS Lab</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Sept 2025 - present</em></p>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>Multi-agnet path planning in life-long enviornment such as warehouses</b>
+    <br>
+    </p><img src="https://JerryZhenTing.github.io/images/arcs-transparent.png" align="right" width="100px"/>
+</div>
+</div>
+<br clear="right"/>
+<br clear="right"/>
+<br clear="right"/>
+
+<div>
 <p style="font-size:20px;"><b>MIT</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>May 2025 - August 2025</em></p>
 
 <div class="archive__proj__row">
