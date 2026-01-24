@@ -22,7 +22,7 @@ I also post logic (and some other) puzzles [here](https://jerryzhenting.github.i
 Feel free to reach out to me at zhentinl[at]andrew[dot]cmu[dot]edu
 
 
-
+I currently lead a few projects on Sim2Real RL and multi-agent path planning (with limited funding) in the CMU's Robotics Institute, feel free to reach out to me for collaboration
 
 <div id="work_experience">
 <h1>Research Experience</h1>
