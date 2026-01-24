@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+UPDATE: I currently lead a few projects on Sim2Real RL and multi-agent path planning (with limited funding) in the CMU's Robotics Institute, feel free to reach out to me for collaboration
 
 I'm ZhenTing Liu (刘镇霆) or Jerry, currently a junior in the SCS at Carnegie Mellon University. I am interested in *optimization theory*, *robotics* (mostly UAVs), *geometry* and *deep learning* . My current research focuses on *multi-agent collaboration*. My ultimate goal is to obtain a PhD in above area. In the meantime I also run a few non-profits ([Voice](https://www.action-voice.com/) link invalid temporarily as I am migrating the domain; [Airsave](http://airsave.life/)). 
 
@@ -22,7 +22,6 @@ I also post logic (and some other) puzzles [here](https://jerryzhenting.github.i
 Feel free to reach out to me at zhentinl[at]andrew[dot]cmu[dot]edu
 
 
-I currently lead a few projects on Sim2Real RL and multi-agent path planning (with limited funding) in the CMU's Robotics Institute, feel free to reach out to me for collaboration
 
 <div id="work_experience">
 <h1>Research Experience</h1>
