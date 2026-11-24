@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm ZhenTing Liu (刘镇霆) or Jerry, currently a Senior in the SCS at Carnegie Mellon University. I am interested in *optimization theory*, *robotics* (mostly UAVs), *geometry* and *planning* . My current research focuses on *multi-agent collaboration*. My ultimate goal is to obtain a PhD in above area. In the meantime I also run a few non-profits ([Voice](https://www.action-voice.com/) link invalid temporarily as I am migrating the domain; [Airsave](http://airsave.life/)). 
-
+I'm ZhenTing Liu (刘镇霆) or Jerry, currently a Senior in the SCS at Carnegie Mellon University working with [Prof.Jiaoyang Li](https://jiaoyangli.me/) and [Jingtian Yan](https://jingtianyan.github.io/) in the Arcs Lab. I am interested in *generative models*, *robotics*, *RL* and *planning* . My current research focuses on *multi-agent collaboration*. My ultimate goal is to obtain a PhD in above area. In the meantime I also run a few non-profits ([Voice](https://www.action-voice.com/) link invalid temporarily as I am migrating the domain; [Airsave](http://airsave.life/)). 
 
 
 I enjoy playing the piano, golfing, snowboarding and solving Jane Street puzzles in my free time. I have a Motor Glider license and am working toward getting a FAA Sport Pilot license. 
