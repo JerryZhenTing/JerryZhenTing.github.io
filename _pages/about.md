@@ -6,13 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-UPDATE: I currently lead a few projects on Sim2Real RL and multi-agent path planning (with limited funding) in the CMU's Robotics Institute, feel free to reach out to me for collaboration
 
-I'm ZhenTing Liu (刘镇霆) or Jerry, currently a junior in the SCS at Carnegie Mellon University. I am interested in *optimization theory*, *robotics* (mostly UAVs), *geometry* and *deep learning* . My current research focuses on *multi-agent collaboration*. My ultimate goal is to obtain a PhD in above area. In the meantime I also run a few non-profits ([Voice](https://www.action-voice.com/) link invalid temporarily as I am migrating the domain; [Airsave](http://airsave.life/)). 
+I'm ZhenTing Liu (刘镇霆) or Jerry, currently a Senior in the SCS at Carnegie Mellon University. I am interested in *optimization theory*, *robotics* (mostly UAVs), *geometry* and *planning* . My current research focuses on *multi-agent collaboration*. My ultimate goal is to obtain a PhD in above area. In the meantime I also run a few non-profits ([Voice](https://www.action-voice.com/) link invalid temporarily as I am migrating the domain; [Airsave](http://airsave.life/)). 
 
-I worked closely with the Sri Lankan government and researchers on local water treatment projects using [microbial fuel-cells](https://en.wikipedia.org/wiki/Microbial_fuel_cell), which I included in the [blog post](https://jerryzhenting.github.io/posts/2024/06/blog-post-3/) 
-
-I did semi-professional bouldering and ref for regionals when I have time. Here are some of my [past competitions](https://competitions.touchstoneclimbing.com/series/15/events/97/completed).I love traveling, I took a year off to backpack across south and south east Asia while doing non-profit work. I have a [blog post](https://jerryzhenting.github.io/posts/2014/06/blog-post-3/) about this. 
 
 
 I enjoy playing the piano, golfing, snowboarding and solving Jane Street puzzles in my free time. I have a Motor Glider license and am working toward getting a FAA Sport Pilot license. 
